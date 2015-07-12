@@ -3,6 +3,6 @@ touch ~/.tmux.conf
 mv ~/.tmux.conf ~/.tmux.conf.old
 ln -s ~/dot-files/.tmux.conf ~/.tmux.conf
 
-touch ~/.bashr
-mv ~/.bashr ~/.bashr.old
-ln -s ~/dot-files/.bashr ~/.bashr
+touch ~/.bashrc
+mv ~/.bashrc ~/.bashrc.old
+ln -s ~/dot-files/.bashrc ~/.bashrc
